@@ -1,0 +1,27 @@
+﻿  main.cpp
+f:\我的\raytrace\raytrace\vec3.h(54): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\我的\raytrace\raytrace\vec3.h(133): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\我的\raytrace\raytrace\hitable_list.h(19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\我的\raytrace\raytrace\camera.h(17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\我的\raytrace\raytrace\drand48.h(15): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+f:\我的\raytrace\raytrace\material.h(11): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\我的\raytrace\raytrace\material.h(18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\我的\raytrace\raytrace\material.h(29): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+f:\我的\raytrace\raytrace\material.h(82): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\我的\raytrace\raytrace\main.cpp(20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\我的\raytrace\raytrace\main.cpp(21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\我的\raytrace\raytrace\main.cpp(21): warning C4305: “参数”: 从“double”到“float”截断
+f:\我的\raytrace\raytrace\main.cpp(22): warning C4305: “参数”: 从“double”到“float”截断
+f:\我的\raytrace\raytrace\main.cpp(24): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\我的\raytrace\raytrace\main.cpp(24): warning C4305: “参数”: 从“double”到“float”截断
+f:\我的\raytrace\raytrace\main.cpp(28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\我的\raytrace\raytrace\main.cpp(28): warning C4305: “参数”: 从“double”到“float”截断
+f:\我的\raytrace\raytrace\main.cpp(31): warning C4305: “参数”: 从“double”到“float”截断
+f:\我的\raytrace\raytrace\main.cpp(38): warning C4305: “参数”: 从“double”到“float”截断
+f:\我的\raytrace\raytrace\main.cpp(39): warning C4305: “参数”: 从“double”到“float”截断
+f:\我的\raytrace\raytrace\main.cpp(47): warning C4305: “参数”: 从“double”到“float”截断
+f:\我的\raytrace\raytrace\main.cpp(66): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\我的\raytrace\raytrace\main.cpp(67): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\我的\raytrace\raytrace\main.cpp(67): warning C4305: “参数”: 从“double”到“float”截断
+f:\我的\raytrace\raytrace\main.cpp(88): warning C4305: “初始化”: 从“double”到“float”截断
+  Raytrace.vcxproj -> F:\我的\Raytrace\Debug\Raytrace.exe
